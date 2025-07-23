@@ -1,0 +1,27 @@
+{
+  "project": "GitHub Practice",
+  "version": "1.0.0",
+  "author": "Sam",
+  "contributors": [
+    {
+      "name": "Alice",
+      "role": "Frontend Developer"
+    },
+    {
+      "name": "Bob",
+      "role": "Backend Developer"
+    }
+  ],
+  "features": {
+    "authentication": true,
+    "paymentIntegration": false,
+    "darkMode": true
+  },
+  "tasks": [
+    "Initialize repo",
+    "Create branches",
+    "Make commits",
+    "Push to remote",
+    "Create pull request"
+  ]
+}
